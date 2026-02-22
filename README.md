@@ -1,15 +1,14 @@
 <div align="center">
 
-# 👋 Hey, I'm Hernán Antonio Villavicencio Soledispa
+# 👋 Hola, Yo soy Hernán Antonio Villavicencio Soledispa
 
-### AWS Community Builder | AWS Certified x2 | Lead User Group Quito | Cloud Native Engineer
+### AWS Community Builder | AWS Certified x2 | AWS User Group Quito | Cloud Native Quito
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+Cloud+Native+Solutions;AWS+Community+Builder;CNCF+Advocate+%F0%9F%87%AA%F0%9F%87%A8;Open+Source+Contributor;Kubernetes+Enthusiast" alt="Typing SVG" />
 
-[![AWS Community Builder](https://img.shields.io/badge/AWS-Community%20Builder-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/developer/community/community-builders/)
-[![CNCF](https://img.shields.io/badge/CNCF-Cloud%20Native%20Quito-412991?style=for-the-badge&logo=cncf&logoColor=white)](https://community.cncf.io/)
+[![AWS Community Builder](https://img.shields.io/badge/AWS-Community%20Builder-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://builder.aws.com/community/@hvillavicencio)
+[![CNCF](https://img.shields.io/badge/CNCF-Cloud%20Native%20Quito-412991?style=for-the-badge&logo=cncf&logoColor=white)](https://community.cncf.io/cloud-native-quito/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hvillavicencio)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
 
 </div>
 
@@ -20,8 +19,8 @@
 ```typescript
 const villavih = {
     location: "Quito, Ecuador 🇪🇨",
-    role: "Cloud Native Engineer",
-    communities: ["AWS Community Builder", "CNCF Cloud Native Quito"],
+    role: "Cloud Architect | Cloud Native Engineer",
+    communities: ["AWS Community Builder", "AWS User Group Quito", "CNCF Cloud Native Quito"],
     certifications: ["AWS Certified x2"],
     currentFocus: "Building AI-powered infrastructure automation tools",
     mission: "Making cloud infrastructure accessible to LATAM developers",
