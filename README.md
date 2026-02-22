@@ -233,7 +233,7 @@ Production-ready Kubernetes deployments on AKS.
 <div align="center">
 
 ```
-🏅 AWS Community Builder (2025)          🎓 AWS Certified Solutions Architect
+🏅 AWS Community Builder (2025)          🎓 AWS Certified Solutions Architect Associate
 🏅 CNCF Member                           🎓 AWS Certified Cloud Practitioner
 🎤 10+ Technical Talks                   📚 Kubernetes Workshops Instructor
 ⭐ 500+ GitHub Stars                     🌟 Open Source Contributor
@@ -297,8 +297,6 @@ Production-ready Kubernetes deployments on AKS.
 
 ### 💭 "Making cloud infrastructure accessible, one commit at a time"
 
-![Visitor Count](https://profile-counter.glitch.me/villavih/count.svg)
-
-**⭐️ From [villavih](https://github.com/villavih) | AWS Community Builder | CNCF Advocate | 🇪🇨**
+**⭐️ From [villavih](https://github.com/villavih) | AWS Community Builder | CNCF Member | 🇪🇨**
 
 </div>
